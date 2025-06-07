@@ -1,73 +1,88 @@
 ---
-- bugreports: []
-
 - summary: |
     Тестирование производительности при высоком трафике
   status: pass
+  bugreports: []
 
 - summary: |
     Проверка скорости загрузки страниц
   status: pass
+  bugreports: []
 
 - summary: |
     Проверка безопасности пользовательских данных
   status: pass
+  bugreports: []
 
 - summary: |
     Поиск товаров по ключевому слову
   status: fail
+  bugreports: []
 
 - summary: |
     Поиск товаров по категории
   status: pass
+  bugreports: []
 
 - summary: |
     Фильтрация товаров
   status: pass
+  bugreports: []
 
 - summary: |
     Просмотр информации о товаре
   status: pass
+  bugreports: []
 
 - summary: |
     Добавление товара в корзину
   status: pass
+  bugreports: []
 
 - summary: |
     Просмотр корзины
   status: pass
+  bugreports: []
 
 - summary: |
     Изменение количества товара в корзине
   status: pass
+  bugreports: []
 
 - summary: |
     Удаление товара из корзины
   status: pass
+  bugreports: []
 
 - summary: |
     Очистка корзины
   status: pass
+  bugreports: []
 
 - summary: |
     Оформление заказа
   status: fail
+  bugreports: []
 
 - summary: |
     Переключение языка интерфейса
   status: pass
+  bugreports: []
 
 - summary: |
     Проверка локализации (русский и английский)
   status: fail
+  bugreports: []
 
 - summary: |
     Проверка отображения сайта на мобильных устройствах
   status: fail
+  bugreports: []
 
 - summary: |
     Проверка совместимости с последними версиями браузеров
   status: pass
+  bugreports: []
 
 
 
