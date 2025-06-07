@@ -1,68 +1,68 @@
----
 - summary: |
     Тестирование производительности при высоком трафике
-  status:
+  status: pass
 
 - summary: |
     Проверка скорости загрузки страниц
-   status:
+  status: pass
 
 - summary: |
     Проверка безопасности пользовательских данных
-   status:
+  status: pass
 
 - summary: |
     Поиск товаров по ключевому слову
-   status:
+  status: fail
 
 - summary: |
     Поиск товаров по категории
-  status:
+  status: pass
 
 - summary: |
     Фильтрация товаров
-  status:
+  status: pass
 
 - summary: |
     Просмотр информации о товаре
-   status:
-   
+  status: pass
+
 - summary: |
     Добавление товара в корзину
-    status:
-    
+  status: pass
+
 - summary: |
     Просмотр корзины
-    status:
+  status: pass
 
 - summary: |
     Изменение количества товара в корзине
-  status:
+  status: pass
 
 - summary: |
     Удаление товара из корзины
-   status:
-   
+  status: pass
+
 - summary: |
     Очистка корзины
-  status:
+  status: pass
 
 - summary: |
     Оформление заказа
-   status:
+  status: fail
 
 - summary: |
     Переключение языка интерфейса
-  status:
-  
+  status: pass
+
 - summary: |
     Проверка локализации (русский и английский)
-  status:
-  
+  status: fail
+
 - summary: |
     Проверка отображения сайта на мобильных устройствах
-  status:
+  status: fail
 
 - summary: |
     Проверка совместимости с последними версиями браузеров
-   status:
+  status: pass
+
