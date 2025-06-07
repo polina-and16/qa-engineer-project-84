@@ -1,3 +1,71 @@
 ---
-bugreports: []
+- summary: |
+    Тестирование производительности при высоком трафике
+  status: pass
+
+- summary: |
+    Проверка скорости загрузки страниц
+  status: pass
+
+- summary: |
+    Проверка безопасности пользовательских данных
+  status: pass
+
+- summary: |
+    Поиск товаров по ключевому слову
+  status: fail
+
+- summary: |
+    Поиск товаров по категории
+  status: pass
+
+- summary: |
+    Фильтрация товаров
+  status: pass
+
+- summary: |
+    Просмотр информации о товаре
+  status: pass
+
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Просмотр корзины
+  status: pass
+
+- summary: |
+    Изменение количества товара в корзине
+  status: pass
+
+- summary: |
+    Удаление товара из корзины
+  status: pass
+
+- summary: |
+    Очистка корзины
+  status: pass
+
+- summary: |
+    Оформление заказа
+  status: fail
+
+- summary: |
+    Переключение языка интерфейса
+  status: pass
+
+- summary: |
+    Проверка локализации (русский и английский)
+  status: fail
+
+- summary: |
+    Проверка отображения сайта на мобильных устройствах
+  status: fail
+
+- summary: |
+    Проверка совместимости с последними версиями браузеров
+  status: pass
+
+  bugreports: []
 
